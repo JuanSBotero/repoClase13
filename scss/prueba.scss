@@ -1,0 +1,31 @@
+@import "variables";
+
+/* LAYOUT Y ESTILOS */
+
+div{
+    height: 500px;
+    width: $ancho;
+    background-color: rgb(180, 180, 207);
+
+    h2{
+        font-size: 50px;
+        color: $primerColor;
+    }
+
+    p{
+        font-size: 30px;
+        color: $primerColor;
+    }
+
+    div{
+        background-color: rgb(250, 225, 114);
+        height: 300px;
+    }
+
+}
+
+li:hover{
+    $colorEnHover: blue
+    color blue;
+    background-color: red;
+}

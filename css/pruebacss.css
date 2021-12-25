@@ -1,0 +1,17 @@
+/*VARIABLES REPETITIVAS */
+div {
+  height: 500px;
+  width: -100px;
+  background-color: #b4b4cf; }
+  div h2 {
+    font-size: 50px;
+    color: red; }
+  div p {
+    font-size: 30px;
+    color: red; }
+  div div {
+    background-color: #fae172;
+    height: 300px; }
+
+li:hover {
+  background-color: red; }
